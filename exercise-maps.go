@@ -15,7 +15,6 @@ func WordCount(s string) map[string]int {
 		fmt.Println(words[i])
 		m[words[i]] += 1	
 	}
-
 	return m
 }
 
