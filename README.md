@@ -24,3 +24,5 @@ update serverless_host in config to reflect the endpoint URL returned
 
 ## testing
 `npm test`
+
+exceutes local requests against the deployed serverless infrastructure
