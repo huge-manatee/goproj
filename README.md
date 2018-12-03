@@ -3,8 +3,7 @@
 #### prepared by: https://github.com/tpinckard
 
 -----
-### Problem statement: 
-[Asset Uploader Assignment](Asset_uploader_assignment.pdf)
+#### Problem statement: [Asset Uploader Assignment](Asset_uploader_assignment.pdf)
 
 -----
 ## prereqs:
