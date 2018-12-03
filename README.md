@@ -1,13 +1,13 @@
-### prereqs:
+## prereqs:
 
-node / npm
+### node / npm
 (refrence best practices for your enviroment)
 
-serverless framework
+### serverless framework
 `npm install serverless -g`
 
 
-### install:
+## install:
 
 cd into project file
 `npm install`
@@ -19,5 +19,5 @@ don't worry about the serverless URL yet, you'll get that after deploying the se
 update serverless_host in config to reflect the endpoint URL returned
 
 
-### testing
+## testing
 `npm test`
