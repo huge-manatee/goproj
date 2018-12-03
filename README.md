@@ -14,6 +14,7 @@ cd into project directory
 `npm install`
 
 update `./config.js` to use the values specific for AWS enviroment: keys, bucketname, etc.
+
 don't worry about the serverless URL yet, you'll get that after deploying the serverless stack
 
 `sls deploy` 
